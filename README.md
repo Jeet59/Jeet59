@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeet Trivedi</h1>
-<h3 align="center">A Full Stack Developer with a Knack for Problem-solving;)</h3>
+<h3 align="center">A Full Stack Developer with a knack for Problem-solving ;)</h3>
 
 - 🔭 I’m currently working on [WeCode](github.com/jeet59/wecode)
 
