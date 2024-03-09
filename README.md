@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeettrivedi0602@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i_0IrAEBcX6v_JPlnBTKSasze86UdQfA/view?usp=drive_link](https://drive.google.com/file/d/1i_0IrAEBcX6v_JPlnBTKSasze86UdQfA/view?usp=drive_link)
+- 📄 Know about my experiences [jeet59.github.io](jeet59.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
