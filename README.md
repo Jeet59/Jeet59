@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CI/CD and Docker**
 
-- 💬 Ask me about **MERN, TypeScript and Django/Flask**
+- 💬 Ask me about **FastAPI, MERN or TypeScript**
 
 - 📫 How to reach me **jeettrivedi0602@gmail.com**
 
