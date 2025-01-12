@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeet Trivedi</h1>
 <h3 align="center">A Full Stack Developer with a Knack for Problem-solving;)</h3>
 
-- 🔭 I’m currently working at [myCopilot.ai](mycopilot.ai)
+- 🔭 I’m currently working at [myCopilot.ai](https://mycopilot.ai)
 
 - 🌱 I’m currently learning **Open-source in the world of python**
 
