@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jeet Trivedi</h1>
 <h3 align="center">A Full Stack Developer with a Knack for Problem-solving;)</h3>
 
-- 🔭 I’m currently working on [WeCode](github.com/jeet59/wecode)
+- 🔭 I’m currently working at [myCopilot.ai](mycopilot.ai)
 
-- 🌱 I’m currently learning **CI/CD and Docker**
+- 🌱 I’m currently learning **Open-source in the world of python**
 
-- 💬 Ask me about **FastAPI, MERN or TypeScript**
+- 💬 Ask me about **FastAPI, Pydantic, Python**
 
 - 📫 How to reach me **jeettrivedi0602@gmail.com**
 
