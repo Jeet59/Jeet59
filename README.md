@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Open-source in the world of python**
 
-- 💬 Ask me about **FastAPI, Pydantic, Python**
+- 💬 Ask me about **FastAPI, Pydantic, Agentic workflows**
 
 - 📫 How to reach me **jeettrivedi0602@gmail.com**
 
